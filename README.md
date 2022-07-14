@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lcerrotti
-- 👀 I’m interested in learn programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me lautarocerrotti@gmail.com
 
